@@ -1,0 +1,80 @@
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+MOUSE 1 DETECTED: Handle = 210110623
+MOUSE1 RAW DELTA: dx=0 dy=1
+GetMouse1Delta: returning dx=0 dy=1
+MOUSE1 RAW DELTA: dx=1 dy=0
+GetMouse1Delta: returning dx=1 dy=0
+GetMouse1Delta: returning dx=0 dy=0
+GetMouse1Delta: returning dx=0 dy=0
+GetMouse1Delta: returning dx=0 dy=0
+MOUSE1 RAW DELTA: dx=-1 dy=0
+MOUSE1 RAW DELTA: dx=0 dy=-1
+MOUSE1 RAW DELTA: dx=-1 dy=0
+MOUSE1 RAW DELTA: dx=-1 dy=0
+MOUSE1 RAW DELTA: dx=0 dy=-1
+MOUSE1 RAW DELTA: dx=0 dy=-1
+MOUSE1 RAW DELTA: dx=0 dy=-1
+MOUSE1 RAW DELTA: dx=0 dy=-1
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+MOUSE 2 DETECTED: Handle = 79302627
+GetMouse2Delta: returning dx=1 dy=0
+GetMouse2Delta: returning dx=0 dy=0
+GetMouse2Delta: returning dx=0 dy=0
+GetMouse2Delta: returning dx=0 dy=0
+GetMouse2Delta: returning dx=0 dy=0
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
+=== InitializeRawInput called ===
+SUCCESS: RegisterRawInputDevices succeeded
